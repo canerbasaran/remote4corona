@@ -24,6 +24,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
+|     | [Finartz](http://finartz.com)                              | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
@@ -44,6 +45,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
+|     | [Smartmessage](http://www.smartmessage.com)            | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |

@@ -46,3 +46,4 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Softtech](https://softtech.com.tr/)                       | -       |

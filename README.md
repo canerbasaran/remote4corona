@@ -25,3 +25,7 @@
 [Paraşüt](https://www.parasut.com)
 
 [Adphorus](https://adphorus.com)
+
+[sahibinden.com](https://sahibinden.com)
+
+[VNGRS](https://vngrs.com)

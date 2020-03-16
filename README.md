@@ -15,6 +15,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Biges](https://biges.com)                                 | -       |
+|     | [BUGECE](https://bugece.co)                                | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |

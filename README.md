@@ -5,6 +5,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |Sirket Adi|Sure|
 |---|---|---|
 |   |[Adphorus](https://adphorus.com)|-|
+|   |[Akinon](https://www.akinon.com)|-|
 |   |[Biges](https://biges.com)|-|
 |   |[Demirören Teknoloji](https://www.demirorenteknoloji.com/)|-|
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|

@@ -20,3 +20,4 @@
 |   |[VNGRS](https://vngrs.com)|-|
 |   |[Volosoft](https://www.volosoft.com/)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|
+|   |[Biges](https://biges.com)|-|

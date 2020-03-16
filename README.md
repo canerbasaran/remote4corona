@@ -15,6 +15,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Biges](https://biges.com)|-|
 |   |[Demirören Teknoloji](https://www.demirorenteknoloji.com/)|-|
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|
+|   |[Emakina.TR](https://www.emakina.com.tr/)|-|
 |   |[DigitArc](https://digitarc.net)|-|
 |   |[EnUygun](https://enuygun.com)|-|
 |   |[Epigra](https://epigra.com)|-|

@@ -23,6 +23,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Hepsiburada](https://hepsiburada.com)|-|
 |   |[Jotform](https://www.jotform.com/)|-|
 |   |[KolayIK](https://kolayik.com)|-|
+|   |[Loodos](https://loodos.com)|-|
 |   |[Masomo](https://masomo.com)|-|
 |   |[Miops](https://miops.com)|-|
 |   |[Mobven](https://mobven.com)|-|

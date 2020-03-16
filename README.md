@@ -27,6 +27,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[NetDirekt](https://www.netdirekt.com.tr)|-|
 |   |[Nicesi](https://nicesi.com)|-|
 |   |[Omega Bigdata](https://omegabigdata.com)|-|
+|   |[OPLOG](https://oplog.com.tr/)|-|
 |   |[OSF Digital](https://osf.digital)|-|
 |   |[Paraşüt](https://www.parasut.com)|-|
 |   |[sahibinden.com](https://sahibinden.com)|-|

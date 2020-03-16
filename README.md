@@ -10,6 +10,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |
 |     | [Adphorus](https://adphorus.com)                           | -       |
 |     | [Akinon](https://www.akinon.com)                           | -       |
+|     | [Alegra](https://alegra.io)                                | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |

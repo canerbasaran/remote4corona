@@ -2,6 +2,7 @@
 
 Alfabetik sıralamaya göre listelenmiştir
 
+
 |     | Şirket Adi                                                 | Süre    |
 | --- | ---------------------------------------------------------- | ------- |
 |     | [2025Arena](https://2025arena.com)                         | -       |
@@ -16,6 +17,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
+|     | [Emakina.TR](https://www.emakina.com.tr)                   | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |

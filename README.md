@@ -11,6 +11,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|
 |   |[DigitArc](https://digitarc.net)|-|
 |   |[EnUygun](https://enuygun.com)|-|
+|   |[Epigra](https://epigra.com)|-|
 |   |[Fideyo](https://fideyo.com)|-|
 |   |[GittiGidiyor](https://gittigidiyor.com)|-|
 |   |[Hepsiburada](https://hepsiburada.com)|-|

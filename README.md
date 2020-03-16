@@ -1,6 +1,6 @@
 # remote4corona
 
-|   |Sirket Adi|Sure|
+|   |Şirket Adı|Süre|
 |---|---|---|
 |   |[Nicesi](https://nicesi.com)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|

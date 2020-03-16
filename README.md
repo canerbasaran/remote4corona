@@ -6,6 +6,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |---|---|---|
 |   |[2025Arena](https://2025arena.com)|-|
 |   |[32 Bit Bilgisayar](http://www.32bit.com.tr)|-|
+|   |[Adesso](https://www.adesso.com.tr/)|-|
 |   |[Adphorus](https://adphorus.com)|-|
 |   |[Akinon](https://www.akinon.com)|-|
 |   |[Atolye15](https://www.atolye15.com)|-|

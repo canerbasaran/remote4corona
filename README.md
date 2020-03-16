@@ -27,6 +27,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [Loodos](https://loodos.com)                               | -       |
+|     | [Metglobal](https://www.metglobal.com/)                    | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobven](https://mobven.com)                               | -       |

@@ -25,3 +25,5 @@
 [Paraşüt](https://www.parasut.com)
 
 [Adphorus](https://adphorus.com)
+
+[Depauli Teknoloji](https://herrenausstatter.com)

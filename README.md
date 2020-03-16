@@ -12,6 +12,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Akinon](https://www.akinon.com)                           | -       |
 |     | [Alegra](https://alegra.io)                                | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
+|     | [Aplus Enerji](https://www.aplusenerji.com.tr)             | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |

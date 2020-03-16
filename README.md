@@ -23,6 +23,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Jotform](https://www.jotform.com/)|-|
 |   |[KolayIK](https://kolayik.com)|-|
 |   |[Masomo](https://masomo.com)|-|
+|   |[Miops](https://miops.com)|-|
 |   |[Mobven](https://mobven.com)|-|
 |   |[MonoFor](https://monofor.com/)|-|
 |   |[Nesine](https://www.nesine.com)|-|

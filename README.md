@@ -4,7 +4,7 @@ Alfabetik sıralamaya göre listelenmiştir
 
 
 |     | Şirket Adı                                                 | Süre    |
-| --- | ---------------------------------------------------------- | ------- |
+| --- | :---------------------------------------------------------- | :------- |
 |     | [2025Arena](https://2025arena.com)                         | -       |
 |     | [32 Bit Bilgisayar](http://www.32bit.com.tr)               | -       |
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |

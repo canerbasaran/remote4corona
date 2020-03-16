@@ -44,6 +44,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
+|     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |

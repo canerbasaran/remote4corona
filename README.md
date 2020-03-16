@@ -28,6 +28,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
+|     | [Litum](https://www.litum.com/)                            | 2 hafta |
 |     | [Loodos](https://loodos.com)                               | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
 |     | [Miops](https://miops.com)                                 | -       |
@@ -49,4 +50,3 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
-|     | [Litum](https://www.litum.com/)                            | 2 hafta |

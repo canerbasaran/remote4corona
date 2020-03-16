@@ -38,6 +38,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Paraşüt](https://www.parasut.com)|-|
 |   |[sahibinden.com](https://sahibinden.com)|-|
 |   |[Sem](https://semtr.com)|-|
+|   |[Trio Mobil](https://triomobil.com)|-|
 |   |[VNGRS](https://vngrs.com)|-|
 |   |[Volosoft](https://www.volosoft.com/)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|

@@ -6,6 +6,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |---|---|---|
 |   |[Adphorus](https://adphorus.com)|-|
 |   |[Biges](https://biges.com)|-|
+|   |[Demirören Teknoloji](https://www.demirorenteknoloji.com/)|-|
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|
 |   |[EnUygun](https://enuygun.com)|-|
 |   |[Fideyo](https://fideyo.com)|-|

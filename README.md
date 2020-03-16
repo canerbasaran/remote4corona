@@ -10,6 +10,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Adphorus](https://adphorus.com)|-|
 |   |[Akinon](https://www.akinon.com)|-|
 |   |[Albayrak Holding](https://www.albayrak.com.tr)|-|
+|   |[Armut](https://www.armut.com)|4 hafta|
 |   |[Atolye15](https://www.atolye15.com)|-|
 |   |[Biges](https://biges.com)|-|
 |   |[Demirören Teknoloji](https://www.demirorenteknoloji.com/)|-|

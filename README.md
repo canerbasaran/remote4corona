@@ -48,3 +48,4 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Litum](https://www.litum.com/)                            | 2 hafta |

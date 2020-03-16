@@ -31,6 +31,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Omega Bigdata](https://omegabigdata.com)|-|
 |   |[OPLOG](https://oplog.com.tr/)|-|
 |   |[OSF Digital](https://osf.digital)|-|
+|   |[Pankod](https://www.pankod.com)|-|
 |   |[Paraşüt](https://www.parasut.com)|-|
 |   |[sahibinden.com](https://sahibinden.com)|-|
 |   |[Sem](https://semtr.com)|-|

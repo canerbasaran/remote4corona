@@ -19,6 +19,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Mobven](https://mobven.com)|-|
 |   |[MonoFor](https://monofor.com/)|-|
 |   |[Nesine](https://www.nesine.com)|-|
+|   |[NetDirekt](https://www.netdirekt.com.tr)|-|
 |   |[Nicesi](https://nicesi.com)|-|
 |   |[OSF Digital](https://osf.digital)|-|
 |   |[Paraşüt](https://www.parasut.com)|-|
@@ -27,4 +28,3 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[VNGRS](https://vngrs.com)|-|
 |   |[Volosoft](https://www.volosoft.com/)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|
-|   |[NetDirekt](https://www.netdirekt.com.tr)|-|

@@ -26,4 +26,8 @@
 
 [Adphorus](https://adphorus.com)
 
-[Depauli Teknoloji](https://herrenausstatter.com)
+[sahibinden.com](https://sahibinden.com)
+
+[VNGRS](https://vngrs.com)
+
+[Depauli Teknoloji](https://herrenausstatter.de)

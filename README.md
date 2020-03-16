@@ -4,6 +4,7 @@ Alfabetik sıralamaya göre listelenmiştir
 
 |   |Sirket Adi|Sure|
 |---|---|---|
+|   |[2025Arena](https://2025arena.com)|-|
 |   |[Adphorus](https://adphorus.com)|-|
 |   |[Akinon](https://www.akinon.com)|-|
 |   |[Biges](https://biges.com)|-|
@@ -22,6 +23,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Nesine](https://www.nesine.com)|-|
 |   |[NetDirekt](https://www.netdirekt.com.tr)|-|
 |   |[Nicesi](https://nicesi.com)|-|
+|   |[Omega Bigdata](https://omegabigdata.com)|-|
 |   |[OSF Digital](https://osf.digital)|-|
 |   |[Paraşüt](https://www.parasut.com)|-|
 |   |[sahibinden.com](https://sahibinden.com)|-|

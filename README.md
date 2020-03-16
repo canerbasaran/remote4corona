@@ -17,4 +17,5 @@
 |   |[sahibinden.com](https://sahibinden.com)|-|
 |   |[Sem](https://semtr.com)|-|
 |   |[VNGRS](https://vngrs.com)|-|
+|   |[Volosoft](https://www.volosoft.com/)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|

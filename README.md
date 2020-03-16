@@ -8,6 +8,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Biges](https://biges.com)|-|
 |   |[Demirören Teknoloji](https://www.demirorenteknoloji.com/)|-|
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|
+|   |[DigitArc](https://digitarc.net)|-|
 |   |[EnUygun](https://enuygun.com)|-|
 |   |[Fideyo](https://fideyo.com)|-|
 |   |[GittiGidiyor](https://gittigidiyor.com)|-|
@@ -25,4 +26,3 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[VNGRS](https://vngrs.com)|-|
 |   |[Volosoft](https://www.volosoft.com/)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|
-|   |[DigitArc](https://digitarc.net)|-|

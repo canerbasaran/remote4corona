@@ -18,6 +18,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[MonoFor](https://monofor.com/)|-|
 |   |[Nesine](https://www.nesine.com)|-|
 |   |[Nicesi](https://nicesi.com)|-|
+|   |[OSF Digital](https://osf.digital)|-|
 |   |[Paraşüt](https://www.parasut.com)|-|
 |   |[sahibinden.com](https://sahibinden.com)|-|
 |   |[Sem](https://semtr.com)|-|

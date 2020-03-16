@@ -1,8 +1,11 @@
 # remote4corona
 
+Alfabetik sıralamaya göre listelenmiştir
+
 |   |Sirket Adi|Sure|
 |---|---|---|
 |   |[Adphorus](https://adphorus.com)|-|
+|   |[Biges](https://biges.com)|-|
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|
 |   |[EnUygun](https://enuygun.com)|-|
 |   |[Fideyo](https://fideyo.com)|-|
@@ -20,4 +23,3 @@
 |   |[VNGRS](https://vngrs.com)|-|
 |   |[Volosoft](https://www.volosoft.com/)|-|
 |   |[WittyCommerce](https://wittycommerce.com)|-|
-|   |[Biges](https://biges.com)|-|

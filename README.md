@@ -2,7 +2,7 @@
 
 Alfabetik sıralamaya göre listelenmiştir
 
-|   |Sirket Adi|Sure|
+|   |Şirket Adi|Süre|
 |---|---|---|
 |   |[2025Arena](https://2025arena.com)|-|
 |   |[32 Bit Bilgisayar](http://www.32bit.com.tr)|-|

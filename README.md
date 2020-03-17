@@ -48,6 +48,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
+|     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
@@ -89,6 +90,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
+|     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |

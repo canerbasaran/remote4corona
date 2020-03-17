@@ -28,6 +28,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
+|     | [Cell Solutions]                                           | -       |
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |

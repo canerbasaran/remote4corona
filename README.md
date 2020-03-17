@@ -24,6 +24,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Beymen](https://www.beymen.com)                           | -       |
 |     | [Biges](https://biges.com)                                 | -       |
+|     | [Bimser](https://bimser.com/)                              | 1 Hafta |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
@@ -71,4 +72,3 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
-|     | [Bimser](https://bimser.com/)                              | 1 Hafta |

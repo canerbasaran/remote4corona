@@ -29,6 +29,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [Finartz](http://finartz.com)                              | -       |
+|     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |

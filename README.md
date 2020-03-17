@@ -28,6 +28,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Borda](https://www.bordatech.com/) 					   | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
+|     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |

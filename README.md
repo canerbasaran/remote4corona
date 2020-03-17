@@ -47,6 +47,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
+|     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
 |     | [Loodos](https://loodos.com)                               | -       |
 |     | [Metglobal](https://www.metglobal.com/)                    | -       |
@@ -82,4 +83,3 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
-|     | [La Nina](http://laninayazilim.com/)                       | -       |

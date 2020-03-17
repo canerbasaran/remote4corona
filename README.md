@@ -33,6 +33,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
 |     | [Loodos](https://loodos.com)                               | -       |
+|     | [Metglobal](https://www.metglobal.com/)                    | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobven](https://mobven.com)                               | -       |

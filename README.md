@@ -33,6 +33,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | -       |
+|     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Farmazon](https://farmazon.com.tr)                        | -       |

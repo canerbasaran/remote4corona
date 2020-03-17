@@ -32,7 +32,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
-|     | [Emakina.TR](https://www.emakina.com.tr)                   | -       |
+|     | [Emakina.TR](https://www.emakina.com.tr)                   | 1/+ Hafta       |
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |

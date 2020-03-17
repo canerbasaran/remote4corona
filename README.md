@@ -54,6 +54,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Netas](https://www.netas.com.tr)                          | -       |
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  | -       |
 |     | [Nicesi](https://nicesi.com)                               | -       |
+|     | [Nuevo](https://www.nuevo.com.tr)                          | -       |
 |     | [Omega Bigdata](https://omegabigdata.com)                  | -       |
 |     | [Onedio](https://www.onedio.com)                           | -       |
 |     | [OPLOG](https://oplog.com.tr/)                             | -       |

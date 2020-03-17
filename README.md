@@ -23,6 +23,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Beymen](https://www.beymen.com)                           | -       |
+|     | [Beyn Bilgi Teknolojileri](https://beyn.com.tr)            | 11 Gün  |
 |     | [Biges](https://biges.com)                                 | -       |
 |     | [Bimser](https://bimser.com/)                              | 1 Hafta |
 |     | [Borda](https://www.bordatech.com/) 					   | -       |

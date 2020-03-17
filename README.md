@@ -25,7 +25,6 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Beymen](https://www.beymen.com)                           | -       |
 |     | [Biges](https://biges.com)                                 | -       |
 |     | [Bimser](https://bimser.com/)                              | 1 Hafta |
-|     | [Borda](https://www.bordatech.com/) 					   | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
@@ -37,7 +36,6 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
-|     | [Exedra](https://exedra.com.tr)                            | -       |
 |     | [Farmazon](https://farmazon.com.tr)                        | -       |
 |     | [Farplas](https://farplas.com.tr)                          | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
@@ -48,6 +46,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
+|     | [Hürriyet Emlak](https://www.hurriyetemlak.com)            | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
@@ -82,13 +81,14 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
-|     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta |
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
-|     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
+|     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Xenn.io](https://xenn.io/#/)                              | -       |
+|     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta       |

@@ -75,6 +75,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
+|     | [Smartface](http://www.smartface.io)                       | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |

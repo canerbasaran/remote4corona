@@ -39,6 +39,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Finartz](http://finartz.com)                              | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
+|     | [Günkom Bilişim](http://gunkom.com.tr)                    | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |

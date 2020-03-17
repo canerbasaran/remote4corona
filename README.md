@@ -17,6 +17,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Biges](https://biges.com)                                 | -       |
+|     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |

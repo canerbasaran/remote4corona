@@ -37,6 +37,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobven](https://mobven.com)                               | -       |
 |     | [MonoFor](https://monofor.com/)                            | -       |
+|     | [Nesbilgi](https://www.nesbilgi.com.tr)                    | -       |
 |     | [Nesine](https://www.nesine.com)                           | -       |
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  | -       |
 |     | [Nicesi](https://nicesi.com)                               | -       |

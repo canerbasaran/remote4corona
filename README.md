@@ -36,6 +36,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
+|     | [Exedra](https://exedra.com.tr)                            | -       |
 |     | [Farmazon](https://farmazon.com.tr)                        | -       |
 |     | [Farplas](https://farplas.com.tr)                          | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |

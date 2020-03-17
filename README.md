@@ -23,6 +23,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
+|     | [Exedra](http://www.exedra.com.tr)                         | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |

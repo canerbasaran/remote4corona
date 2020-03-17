@@ -1,7 +1,13 @@
 # remote4corona
 
-Alfabetik sıralamaya göre listelenmiştir
+## Ekleme
+Sadece çalıştığınız şirkette ofiste çalışılıyorken, korona nedeniyle uzaktan çalışılmasına izin veriliyorsa PR açın. Duyum aldığınız şirketleri ve tamamen uzaktan çalışanları değil!
 
+## Hata belirtme
+Aşağıdaki listede yer alan şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, Issue açın
+
+
+Alfabetik sıralamaya göre listelenmiştir
 
 |     | Şirket Adı                                                 | Süre    |
 | --- | :---------------------------------------------------------- | :------- |

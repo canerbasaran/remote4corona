@@ -41,6 +41,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Finartz](http://finartz.com)                              | -       |
 |     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
+|     | [Getir](https://getir.com/)                                | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |

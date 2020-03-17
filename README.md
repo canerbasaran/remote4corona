@@ -56,6 +56,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
+|     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [VNGRS](https://vngrs.com)                                 | -       |

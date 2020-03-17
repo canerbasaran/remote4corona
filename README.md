@@ -16,8 +16,8 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |
 |     | [Adphorus](https://adphorus.com)                           | -       |
 |     | [Akinon](https://www.akinon.com)                           | -       |
-|     | [Alegra](https://alegra.io)                                | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
+|     | [Alegra](https://alegra.io)                                | -       |
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
@@ -50,8 +50,8 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
 |     | [Loodos](https://loodos.com)                               | -       |
-|     | [Metglobal](https://www.metglobal.com/)                    | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
+|     | [Metglobal](https://www.metglobal.com/)                    | -       |
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobiroller](https://www.mobiroller.com/)                  | 3 hafta |
 |     | [Mobven](https://mobven.com)                               | -       |
@@ -71,9 +71,9 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
-|     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
+|     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |

@@ -36,6 +36,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Masomo](https://masomo.com)                               | -       |
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobven](https://mobven.com)                               | -       |
+|     | [Monkeys Team](https://monkeysteam.com)                    | -       |
 |     | [MonoFor](https://monofor.com/)                            | -       |
 |     | [Nesbilgi](https://www.nesbilgi.com.tr)                    | -       |
 |     | [Nesine](https://www.nesine.com)                           | -       |
@@ -48,7 +49,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
-|     | [Smartmessage](http://www.smartmessage.com)            | -       |
+|     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |

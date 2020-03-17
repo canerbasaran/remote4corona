@@ -63,6 +63,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [OSF Digital](https://osf.digital)                         | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
+|     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |

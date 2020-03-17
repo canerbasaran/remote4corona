@@ -77,6 +77,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
+|     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |

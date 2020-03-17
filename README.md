@@ -82,14 +82,13 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
+|     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta |
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
-|     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
+|     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
-|     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta       |
-

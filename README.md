@@ -86,3 +86,5 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta       |
+

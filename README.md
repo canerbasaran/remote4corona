@@ -37,6 +37,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Farmazon](https://farmazon.com.tr)                        | -       |
+|     | [Farplas](https://farplas.com.tr)                          | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [Finartz](http://finartz.com)                              | -       |
 |     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |

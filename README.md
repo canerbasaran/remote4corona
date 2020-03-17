@@ -23,7 +23,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
-|     | [Günkom Bilişim](https://gunkom.com.tr)                    | -       |
+|     | [Günkom Bilişim](http://gunkom.com.tr)                    | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |

@@ -39,6 +39,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Farmazon](https://farmazon.com.tr)                        | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [Finartz](http://finartz.com)                              | -       |
+|     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |

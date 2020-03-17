@@ -21,6 +21,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
+|     | [Atlas Yazılım](https://www.atlasyazilim.com.tr)           | 3 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Beymen](https://www.beymen.com)                           | -       |
 |     | [Biges](https://biges.com)                                 | -       |

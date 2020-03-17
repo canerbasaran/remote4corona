@@ -84,5 +84,6 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
+|     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |

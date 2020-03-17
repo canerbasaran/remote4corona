@@ -74,6 +74,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [OSF Digital](https://osf.digital)                         | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
+|     | [PenYazılım](https://www.https://pen.com.tr/)              | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |

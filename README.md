@@ -86,6 +86,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
+|     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
 |     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta       |

@@ -42,6 +42,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [MonoFor](https://monofor.com/)                            | -       |
 |     | [Nesbilgi](https://www.nesbilgi.com.tr)                    | -       |
 |     | [Nesine](https://www.nesine.com)                           | -       |
+|     | [Netas](https://www.netas.com.tr)                          | -       |
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  | -       |
 |     | [Nicesi](https://nicesi.com)                               | -       |
 |     | [Omega Bigdata](https://omegabigdata.com)                  | -       |

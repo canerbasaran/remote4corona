@@ -51,6 +51,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
+|     | [Logo Yazılım](https://www.logo.com.tr)                    | -       |
 |     | [Loodos](https://loodos.com)                               | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
 |     | [Metglobal](https://www.metglobal.com/)                    | -       |

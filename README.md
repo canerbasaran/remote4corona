@@ -35,11 +35,12 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
+|     | [Farmazon](https://farmazon.com.tr)                        | -       |
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [Finartz](http://finartz.com)                              | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
-|     | [Günkom Bilişim](http://gunkom.com.tr)                    | -       |
+|     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |

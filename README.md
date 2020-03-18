@@ -70,6 +70,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Inosens](http://inosens.com.tr/)                          | -       |
 |     | [Insider](https://useinsider.com)                          | -       |
 |     | [Inveon](https://www.inveon.com)                           | -       |
+|     | [image4io](https://image4.io)                              | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
 |     | [KKB](https://www.kkb.com.tr)                              | -       |

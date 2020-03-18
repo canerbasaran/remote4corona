@@ -65,6 +65,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
+|     | [Inosens](http://inosens.com.tr/)                          | -       |
 |     | [Insider](https://useinsider.com)                          | -       |
 |     | [Inveon](https://www.inveon.com)                           | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |

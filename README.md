@@ -39,6 +39,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [DigitArc](https://digitarc.net)                           | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | 1/+ Hafta       |
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
+|     | [Endeksa](https://www.endeksa.com)                         | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
 |     | [Exedra](https://exedra.com.tr)                            | -       |

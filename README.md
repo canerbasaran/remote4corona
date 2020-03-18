@@ -26,7 +26,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Arkel](https://www.arkel.com.tr)                          |         |
-|     | [Artiwise](https://www.artiwise.com)                          | -        |
+|     | [Artiwise](https://www.artiwise.com)                       | -       |
 |     | [Atlas Yazılım](https://www.atlasyazilim.com.tr)           | 3 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Beymen](https://www.beymen.com)                           | -       |
@@ -135,5 +135,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Zeo](https://zeo.org)                                     | 1+ ay   |
 |     | [Zeplin](https://zeplin.io)                                | -       |
 |     | [Zingat](https://www.zingat.com)                           | 1+ hafta |

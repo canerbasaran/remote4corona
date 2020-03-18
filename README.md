@@ -9,7 +9,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 
 
 |     | Şirket Adı                                                 | Süre    |
-| --- | :---------------------------------------------------------- | :------- |
+| --- | :--------------------------------------------------------- | :-------|
 |     | [2025Arena](https://2025arena.com)                         | -       |
 |     | [32 Bit Bilgisayar](http://www.32bit.com.tr)               | -       |
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |
@@ -37,7 +37,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
-|     | [Donanım Haber](https://www.donanimhaber.com/)                           | -       |
+|     | [Donanım Haber](https://www.donanimhaber.com/)             | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | 1/+ Hafta       |
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [Endeksa](https://www.endeksa.com)                         | -       |
@@ -61,6 +61,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Inveon](https://www.inveon.com)                           | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
+|     | [KKB](https://www.kkb.com.tr)                              | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
@@ -71,6 +72,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobiroller](https://www.mobiroller.com/)                  | 3 hafta |
 |     | [Mobven](https://mobven.com)                               | -       |
+|     | [Momencraft](https://momencraft.com)                       | -       |
 |     | [Monkeys Team](https://monkeysteam.com)                    | -       |
 |     | [MonoFor](https://monofor.com/)                            | -       |
 |     | [n11](https://www.n11.com/)                                | 2 hafta |
@@ -103,7 +105,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
-|     | [Vircon](http://www.vircongroup.com/)             		     | -       |
+|     | [Vircon](http://www.vircongroup.com/)             	       | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |

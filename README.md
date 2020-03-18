@@ -76,6 +76,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Nesine](https://www.nesine.com)                           | -       |
 |     | [Netas](https://www.netas.com.tr)                          | -       |
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  | -       |
+|     | [Netix](http://netix.com.tr)                               | -       |
 |     | [Nicesi](https://nicesi.com)                               | -       |
 |     | [Nuevo](https://www.nuevo.com.tr)                          | -       |
 |     | [Omega Bigdata](https://omegabigdata.com)                  | -       |

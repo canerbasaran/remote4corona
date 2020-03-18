@@ -46,6 +46,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [Finartz](http://finartz.com)                              | -       |
 |     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |
+|     | [Glocalzone](https://glocalzone.com/)                      | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [Getir](https://getir.com/)                                | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |

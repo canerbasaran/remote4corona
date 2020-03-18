@@ -54,6 +54,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
+|     | [Insider](https://useinsider.com)                          | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |

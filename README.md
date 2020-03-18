@@ -49,6 +49,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
+|     | [Insider](https://useinsider.com)                          | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [La Nina](http://laninayazilim.com/)                       | -       |

@@ -123,6 +123,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Piple](https://piple.co)                                  | -       |
 |     | [robotic.mobi](https://robotic.mobi)                       | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
+|     | [SambaPOS](https://sambapos.com)                           | 2 Hafta |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Sixt](https://sixt.com.tr)                                | -       |

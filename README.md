@@ -148,6 +148,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
+|     | [Veripark](https://www.veripark.com/)                      | 2+ hafta |
 |     | [Vircon](http://www.vircongroup.com/)             	       | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |

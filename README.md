@@ -127,3 +127,4 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
 |     | [Zeplin](https://zeplin.io)                                | -       |
+|     | [Zingat](https://www.zingat.com)                           | 1+ hafta |

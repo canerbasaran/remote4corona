@@ -68,6 +68,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Kamion](https://www.kamion.co/)                           | -       |
 |     | [KKB](https://www.kkb.com.tr)                              | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
+|     | [Koru Sigorta](https://korusigorta.com.tr)                 | -       |
 |     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
 |     | [Logo Yazılım](https://www.logo.com.tr)                    | -       |

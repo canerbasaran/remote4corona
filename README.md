@@ -80,6 +80,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [OSF Digital](https://osf.digital)                         | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
+|     | [PenYazılım](https://www.https://pen.com.tr/)              | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [Piple](https://piple.co)                                  | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |

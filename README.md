@@ -40,6 +40,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Cell Solutions]                                           | -       |
 |     | [ÇiçekSepeti](https://ciceksepeti.com)                     | 1+ Hafta|
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
+|     | [Denebunu](https://denebunu.com/)                          | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             | -       |

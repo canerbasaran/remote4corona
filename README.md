@@ -39,13 +39,14 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Bigoen](https://bigoen.com)                               | -       |
 |     | [Biletall](https://www.biletall.com/)                      | 1 Hafta |
 |     | [Bimser](https://bimser.com/)                              | 1 Hafta |
-|     | [Borda](https://www.bordatech.com/) 					   | -       |
+|     | [Borda](https://www.bordatech.com/) 					             | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
 |     | [Clevel](http://clevel.team)                               | -       |
+|     | [Corendon](https://www.corendonairlines.com)               | -       |
 |     | [CTech](http://ctech.com.tr/)                              | -       |
 |     | [ÇiçekSepeti](https://ciceksepeti.com)                     | 1+ Hafta|
 |     | [Çözümevi Danışmanlık](https://www.cozumevi.com)           | 1+ Hafta|
@@ -54,7 +55,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             | -       |
-|     | [Emakina.TR](https://www.emakina.com.tr)                   | 1/+ Hafta       |
+|     | [Emakina.TR](https://www.emakina.com.tr)                   | 1+ Hafta|
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [Endeksa](https://www.endeksa.com)                         | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
@@ -122,6 +123,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [Piple](https://piple.co)                                  | -       |
 |     | [robotic.mobi](https://robotic.mobi)                       | -       |
+|     | [sefamerve.com](https://www.sefamerve.com)                 | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [SambaPOS](https://sambapos.com)                           | 2 Hafta |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
@@ -130,7 +132,9 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Smartface](http://www.smartface.io)                       | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
-|     | [StartupMarket](https://startupmarket.co)                       | -       |
+|     | [Şikayetvar](https://www.sikayetvar.com)                   | -       |
+|     | [StartupMarket](https://startupmarket.co)                  | -       |
+|     | [Tatilde Kirala](https://www.tatildekirala.com/)           | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
 |     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta |
 |     | [TeamGram](https://www.teamgram.com)                       | -       |
@@ -144,6 +148,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
+|     | [Vakko](https://www.vakko.com/)                            | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
 |     | [Zeo](https://zeo.org)                                     | 1+ ay   |

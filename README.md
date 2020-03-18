@@ -113,6 +113,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Öykü Grup](http://www.oykugrup.com.tr)                    | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
+|     | [Peakment](https://peakment.com)                           | 1 Ay    |
 |     | [PenYazılım](https://pen.com.tr/)                          | -       |
 |     | [Privia Security](https://www.priviasecurity.com/)         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |

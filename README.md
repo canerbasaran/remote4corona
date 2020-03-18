@@ -76,6 +76,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobiroller](https://www.mobiroller.com/)                  | 3 hafta |
 |     | [Mobven](https://mobven.com)                               | -       |
+|     | [Modanisa](https://www.modanisa.com)                       | -       |
 |     | [Momencraft](https://momencraft.com)                       | -       |
 |     | [Monkeys Team](https://monkeysteam.com)                    | -       |
 |     | [MonoFor](https://monofor.com/)                            | -       |

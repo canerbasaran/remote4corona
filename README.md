@@ -21,6 +21,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
+|     | [Arkel](https://www.arkel.com.tr)                          |         |
 |     | [Atlas Yazılım](https://www.atlasyazilim.com.tr)           | 3 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Beymen](https://www.beymen.com)                           | -       |
@@ -29,6 +30,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Borda](https://www.bordatech.com/) 					   | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
+|     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
@@ -49,8 +51,10 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
+|     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
+|     | [Kamion](https://www.kamion.co/)                           | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
@@ -76,6 +80,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
+|     | [Piple](https://piple.co)                                  | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
@@ -90,6 +95,8 @@ Alfabetik sıralamaya göre listelenmiştir
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
+|     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Zeplin](https://zeplin.io)                                | -       |

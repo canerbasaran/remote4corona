@@ -115,6 +115,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [OSF Digital](https://osf.digital)                         | -       |
 |     | [Öykü Grup](http://www.oykugrup.com.tr)                    | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
+|     | [Parabol](https://paraboly.com)                            | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [Peakment](https://peakment.com)                           | 1 Ay    |
 |     | [PenYazılım](https://pen.com.tr/)                          | -       |

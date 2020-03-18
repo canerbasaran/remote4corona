@@ -120,6 +120,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
+|     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
 |     | [Vircon](http://www.vircongroup.com/)             	       | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |

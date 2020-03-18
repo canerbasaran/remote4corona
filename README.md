@@ -78,7 +78,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [image4io](https://image4.io)                              | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
-|     | [Kariyer.net](https://www.kariyer.net)                     | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 | -       |
@@ -111,6 +110,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Öykü Grup](http://www.oykugrup.com.tr)                    | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
+|     | [Peakment](https://peakment.com)                           | 1 Ay    |
 |     | [PenYazılım](https://pen.com.tr/)                          | -       |
 |     | [Privia Security](https://www.priviasecurity.com/)         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
@@ -132,7 +132,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
-|     | [Vircon](http://www.vircongroup.com/)             	       | -       |
+|     | [Vircon](http://www.vircongroup.com/)                      | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |

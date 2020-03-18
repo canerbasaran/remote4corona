@@ -6,7 +6,7 @@ Alfabetik sıralamaya göre ekleme yap. Sadece ofis çalışanıyken, korona ned
 ## Hata belirtme
 Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, Issue aç.
 
-## Destek ol
+## Diğer projelere destek ol
 [Solunum Destek Cihazı Üretimi Projesi](https://www.solunumdestek.org/) 
 
 

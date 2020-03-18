@@ -51,6 +51,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Endeksa](https://www.endeksa.com)                         | -       |
 |     | [EnUygun](https://enuygun.com)                             | -       |
 |     | [Epigra](https://epigra.com)                               | -       |
+|     | [Etiya](https://etiya.com)                                 | -       |
 |     | [Exedra](https://exedra.com.tr)                            | -       |
 |     | [Farmazon](https://farmazon.com.tr)                        | -       |
 |     | [Farplas](https://farplas.com.tr)                          | -       |

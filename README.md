@@ -107,6 +107,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Nesbilgi](https://www.nesbilgi.com.tr)                    | -       |
 |     | [Nesine](https://www.nesine.com)                           | -       |
 |     | [Netas](https://www.netas.com.tr)                          | -       |
+|     | [Netcad](https://www.netcad.com)                          | -       |
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  | -       |
 |     | [Netix](http://netix.com.tr)                               | -       |
 |     | [Nicesi](https://nicesi.com)                               | -       |

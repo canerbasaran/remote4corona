@@ -68,6 +68,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
+|     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Inosens](http://inosens.com.tr/)                          | -       |

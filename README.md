@@ -17,6 +17,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |
 |     | [Adphorus](https://adphorus.com)                           | -       |
 |     | [Akinon](https://www.akinon.com)                           | -       |
+|     | [Ahtapot](https://ahtapotapp.com/)                         | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
 |     | [Alegra](https://alegra.io)                                | -       |
 |     | [Alta Data](https://www.altadata.io/)                      | -       |

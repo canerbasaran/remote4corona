@@ -69,6 +69,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Logo Yazılım](https://www.logo.com.tr)                    | -       |
 |     | [Loodos](https://loodos.com)                               | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
+|     | [Maxwell Innovations](https://maxwell-innovations.com)     | 1 hafta |
 |     | [Metglobal](https://www.metglobal.com/)                    | -       |
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobiroller](https://www.mobiroller.com/)                  | 3 hafta |

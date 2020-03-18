@@ -41,6 +41,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
+|     | [Clevel](http://clevel.team)                               | -       |
 |     | [CTech](http://ctech.com.tr/)                              | -       |
 |     | [ÇiçekSepeti](https://ciceksepeti.com)                     | 1+ Hafta|
 |     | [Çözümevi Danışmanlık](https://www.cozumevi.com)           | 1+ Hafta|

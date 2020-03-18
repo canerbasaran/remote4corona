@@ -1,7 +1,12 @@
 # remote4corona
 
 ## Ekleme
-Alfabetik sıralamaya göre ekleme yap. Sadece ofis çalışanıyken, korona nedeniyle uzaktan çalışmana izin veriliyorsa PR aç. Duyum aldığın şirketleri ve tamamen uzaktan çalışılan yerleri değil!
+
+### Ekleme yapılması için bazı önşartlar bulunmaktadır:
+
+* Eklemeler alfabetik sıraya göre yapılmalıdır,
+* Yalnızca COVID-19 virüsü nedeni ile alınan önlemler çerçevesinde uzaktan çalışma modeline geçen şirketler eklenmelidir,
+* Kesin olarak emin olduğunuz şirketler eklenmelidir.
 
 ## Hata belirtme
 Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, Issue aç.
@@ -78,7 +83,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [image4io](https://image4.io)                              | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
-|     | [Kariyer.net](https://www.kariyer.net)                     | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 | -       |
@@ -125,7 +129,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
 |     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta |
-|     | [TeamGram](https://www.teamgram.com)                       | -       |
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |

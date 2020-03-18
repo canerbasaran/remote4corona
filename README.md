@@ -94,6 +94,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [PenYazılım](https://www.https://pen.com.tr/)              | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [Piple](https://piple.co)                                  | -       |
+|     | [robotic.mobi](https://robotic.mobi)                       | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |

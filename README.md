@@ -121,6 +121,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [Peakment](https://peakment.com)                           | 1 Ay    |
 |     | [PenYazılım](https://pen.com.tr/)                          | -       |
+|     | [Pisano](https://pisano.co/)                               | -       |
 |     | [Privia Security](https://www.priviasecurity.com/)         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [Piple](https://piple.co)                                  | -       |

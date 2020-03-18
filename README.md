@@ -18,6 +18,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
 |     | [Alegra](https://alegra.io)                                | -       |
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             | -       |
+|     | [Appcent](https://www.appcent.mobi/)                       | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Arkel](https://www.arkel.com.tr)                          |         |

@@ -88,11 +88,13 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Onedio](https://www.onedio.com)                           | -       |
 |     | [OPLOG](https://oplog.com.tr/)                             | -       |
 |     | [OSF Digital](https://osf.digital)                         | -       |
+|     | [Öykü Grup](http://www.oykugrup.com.tr)                    | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [PenYazılım](https://www.https://pen.com.tr/)              | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [Piple](https://piple.co)                                  | -       |
+|     | [robotic.mobi](https://robotic.mobi)                       | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
@@ -113,4 +115,3 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
 |     | [Zeplin](https://zeplin.io)                                | -       |
-|     | [robotic.mobi](https://robotic.mobi)                       | -       |

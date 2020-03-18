@@ -26,6 +26,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Applogist](https://www.applogist.com)                     | -       |
 |     | [Armut](https://www.armut.com)                             | 4 hafta |
 |     | [Arkel](https://www.arkel.com.tr)                          |         |
+|     | [Artiwise](https://www.artiwise.com)                          | -        |
 |     | [Atlas Yazılım](https://www.atlasyazilim.com.tr)           | 3 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       | -       |
 |     | [Beymen](https://www.beymen.com)                           | -       |

@@ -28,6 +28,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Beyn Bilgi Teknolojileri](https://beyn.com.tr)            | 11 Gün  |
 |     | [Biges](https://biges.com)                                 | -       |
 |     | [Bigoen](https://bigoen.com)                               | -       |
+|     | [Biletall](https://www.biletall.com/)                      | 1 Hafta |
 |     | [Bimser](https://bimser.com/)                              | 1 Hafta |
 |     | [Borda](https://www.bordatech.com/) 					   | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |

@@ -124,6 +124,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
 |     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta |
+|     | [TeamGram](https://www.teamgram.com)                       | -       |
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |

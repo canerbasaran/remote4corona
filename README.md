@@ -37,6 +37,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
+|     | [Donanım Haber](https://www.donanimhaber.com/)                           | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | 1/+ Hafta       |
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [Endeksa](https://www.endeksa.com)                         | -       |

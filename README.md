@@ -42,6 +42,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Cell Solutions]                                           | -       |
 |     | [CTech](http://ctech.com.tr/)                              | -       |
 |     | [ÇiçekSepeti](https://ciceksepeti.com)                     | 1+ Hafta|
+|     | [Çözümevi Danışmanlık](https://www.cozumevi.com)           | 1+ Hafta|
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Denebunu](https://denebunu.com/)                          | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |

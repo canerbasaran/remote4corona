@@ -115,6 +115,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [sahibinden.com](https://sahibinden.com)                   | -       |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
+|     | [Sixt](https://sixt.com.tr)                                | -       |
 |     | [Smartface](http://www.smartface.io)                       | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |

@@ -130,6 +130,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Smartface](http://www.smartface.io)                       | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
 |     | [Softtech](https://softtech.com.tr/)                       | -       |
+|     | [StartupMarket](https://startupmarket.co)                       | -       |
 |     | [Talentra](https://talentra.net/)                          | -       |
 |     | [Tatilsepeti](https://www.tatilsepeti.com)                 | 2 Hafta |
 |     | [TeamGram](https://www.teamgram.com)                       | -       |

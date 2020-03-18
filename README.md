@@ -103,6 +103,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
+|     | [Vircon](http://www.vircongroup.com/)             		     | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |

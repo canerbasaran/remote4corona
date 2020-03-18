@@ -55,6 +55,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Insider](https://useinsider.com)                          | -       |
+|     | [Inveon](https://www.inveon.com)                           | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |

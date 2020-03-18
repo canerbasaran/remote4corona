@@ -35,6 +35,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
+|     | [ÇiçekSepeti](https://ciceksepeti.com)                     | 1+ Hafta|
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |

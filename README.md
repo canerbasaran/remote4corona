@@ -88,6 +88,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Onedio](https://www.onedio.com)                           | -       |
 |     | [OPLOG](https://oplog.com.tr/)                             | -       |
 |     | [OSF Digital](https://osf.digital)                         | -       |
+|     | [Öykü Grup](http://www.oykugrup.com.tr)                    | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [PenYazılım](https://www.https://pen.com.tr/)              | -       |

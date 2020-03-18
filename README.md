@@ -57,6 +57,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Fideyo](https://fideyo.com)                               | -       |
 |     | [Finartz](http://finartz.com)                              | -       |
 |     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |
+|     | [Formalistech](http://www.formalistech.com/)               | -       |
 |     | [Glocalzone](https://glocalzone.com/)                      | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [Getir](https://getir.com/)                                | -       |
@@ -127,5 +128,4 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
 |     | [Zeplin](https://zeplin.io)                                | -       |
-|     | [Formalistech](http://www.formalistech.com/)               | -       |
 

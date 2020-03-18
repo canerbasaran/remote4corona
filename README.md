@@ -19,6 +19,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Akinon](https://www.akinon.com)                           | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
 |     | [Alegra](https://alegra.io)                                | -       |
+|     | [Alta Data](https://www.altadata.io/)                      | -       |
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             | -       |
 |     | [Appcent](https://www.appcent.mobi/)                       | -       |
 |     | [Applogist](https://www.applogist.com)                     | -       |

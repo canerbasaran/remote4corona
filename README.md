@@ -1,7 +1,7 @@
 # remote4corona
 
 ## Ekleme
-Alfabetik sıralamaya göre ekleme yap. Sadece ofis çalışanıyken, korona nedeniyle uzaktan çalışılmana izin veriliyorsa PR aç. Duyum aldığın şirketleri ve tamamen uzaktan çalışılan yerleri değil!
+Alfabetik sıralamaya göre ekleme yap. Sadece ofis çalışanıyken, korona nedeniyle uzaktan çalışmana izin veriliyorsa PR aç. Duyum aldığın şirketleri ve tamamen uzaktan çalışılan yerleri değil!
 
 ## Hata belirtme
 Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, Issue aç.

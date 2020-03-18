@@ -92,6 +92,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
 |     | [PenYazılım](https://www.https://pen.com.tr/)              | -       |
+|     | [Privia Security](https://www.priviasecurity.com/)         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
 |     | [Piple](https://piple.co)                                  | -       |
 |     | [robotic.mobi](https://robotic.mobi)                       | -       |

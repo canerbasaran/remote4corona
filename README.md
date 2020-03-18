@@ -77,6 +77,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [image4io](https://image4.io)                              | -       |
 |     | [Jotform](https://www.jotform.com/)                        | -       |
 |     | [Kamion](https://www.kamion.co/)                           | -       |
+|     | [Kariyer.net](https://www.kariyer.net)                     | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 | -       |

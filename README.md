@@ -17,6 +17,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |
 |     | [Adphorus](https://adphorus.com)                           | -       |
 |     | [Akinon](https://www.akinon.com)                           | -       |
+|     | [Akrep](https://www.akrep.com)                             | -       |
 |     | [Ahtapot](https://ahtapotapp.com/)                         | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
 |     | [Alegra](https://alegra.io)                                | -       |
@@ -82,6 +83,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [KKB](https://www.kkb.com.tr)                              | -       |
 |     | [KolayIK](https://kolayik.com)                             | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 | -       |
+|     | [Kriko](https://kriko.io)                                  | -       |
 |     | [La Nina](http://laninayazilim.com/)                       | -       |
 |     | [Litum](https://www.litum.com/)                            | 2 hafta |
 |     | [Logo Yazılım](https://www.logo.com.tr)                    | -       |
@@ -111,7 +113,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Öykü Grup](http://www.oykugrup.com.tr)                    | -       |
 |     | [Pankod](https://www.pankod.com)                           | -       |
 |     | [Paraşüt](https://www.parasut.com)                         | -       |
-|     | [Peakment](https://peakment.com)                           | 1 Ay    |
 |     | [PenYazılım](https://pen.com.tr/)                          | -       |
 |     | [Privia Security](https://www.priviasecurity.com/)         | -       |
 |     | [Protel](https://www.protel.com.tr/)                       | -       |
@@ -133,7 +134,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
-|     | [Vircon](http://www.vircongroup.com/)                      | -       |
+|     | [Vircon](http://www.vircongroup.com/)             	       | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
 |     | [VNGRS](https://vngrs.com)                                 | -       |

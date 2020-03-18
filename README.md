@@ -113,3 +113,4 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
 |     | [Zeplin](https://zeplin.io)                                | -       |
+|     | [robotic.mobi](https://robotic.mobi)                       | -       |

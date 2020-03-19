@@ -62,6 +62,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [DigitArc](https://digitarc.net)                           |                | -       |
 |     | [DOGO Tasarım](https://www.dogostore.com/)                 |                | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             |                | -       |
+|     | [Doxa Labs](https://doxalabs.co.uk)                        | 2020-03-16     | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   |                | 1+ Hafta|
 |     | [Emlakjet](https://www.emlakjet.com)                       |                | -       |
 |     | [Endeksa](https://www.endeksa.com)                         |                | -       |
@@ -106,6 +107,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Masomo](https://masomo.com)                               |                | -       |
 |     | [Maxwell Innovations](https://maxwell-innovations.com)     |                | 1 hafta |
 |     | [Metglobal](https://www.metglobal.com/)                    |                | -       |
+|     | [Ministry Of Branding](https://ministryofbranding.co)      | 2020-03-16     | -       |
 |     | [Miops](https://miops.com)                                 |                | -       |
 |     | [Mobiroller](https://www.mobiroller.com/)                  |                | 3 hafta |
 |     | [Mobven](https://mobven.com)                               |                | -       |

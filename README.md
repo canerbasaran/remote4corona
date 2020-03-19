@@ -75,7 +75,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Glocalzone](https://glocalzone.com/)                      |                | -       |
 |     | [GE Aviation](https://www.geaviation.com/)                 |                | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        |                | -       |
-|     | [Getir](https://getir.com/)                                |                | -       |
+|     | [Getir](https://getir.com/)                                | 2020-03-12     | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   |                | 1+ Ay   |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     |                | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     |                | -       |

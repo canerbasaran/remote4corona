@@ -147,6 +147,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
+|     | [Veridyen](http://www.veridyen.com/)             	       | 2+ hafta |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
 |     | [Veripark](https://www.veripark.com/)                      | 2+ hafta |
 |     | [Vircon](http://www.vircongroup.com/)             	       | -       |

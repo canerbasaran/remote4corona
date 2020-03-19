@@ -77,6 +77,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
+|     | [i2i Systems](http://i2i-systems.com/)                     | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Inosens](http://inosens.com.tr/)                          | -       |
 |     | [Insider](https://useinsider.com)                          | -       |

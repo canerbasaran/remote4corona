@@ -135,6 +135,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [SambaPOS](https://sambapos.com)                           | 2 Hafta |
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
+|     | [Sfs](https://sfs.com.tr/)                                 | -       |
 |     | [Siemens](http://www.siemens.com.tr)                       | -       |
 |     | [Sixt](https://sixt.com.tr)                                | -       |
 |     | [Smartface](http://www.smartface.io)                       | -       |

@@ -26,7 +26,8 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Ahtapot](https://ahtapotapp.com/)                         |                | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            |                | -       |
 |     | [Alegra](https://alegra.io)                                |                | -       |
-|     | [Alta Data](https://www.altadata.io/)                      |                | -       |
+|     | [Alta Data](https://www.altadata.io/)
+|.    | [Airsqreen](https://www.airsqreen.com)
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             |                | -       |
 |     | [Appcent](https://www.appcent.mobi/)                       |                | -       |
 |     | [Applogist](https://www.applogist.com)                     |                | -       |

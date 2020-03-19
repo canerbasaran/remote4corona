@@ -43,6 +43,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
+|     | [Buhizmet](https://buhizmet.com)                           | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
 |     | [Clevel](http://clevel.team)                               | -       |

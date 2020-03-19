@@ -21,6 +21,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Adphorus](https://adphorus.com)                           | -       |
 |     | [Akinon](https://www.akinon.com)                           | -       |
 |     | [Akrep](https://www.akrep.com)                             | -       |
+|     | [Alternet](https://alternet.com.tr)                        | -       |
 |     | [Ahtapot](https://ahtapotapp.com/)                         | -       |
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            | -       |
 |     | [Alegra](https://alegra.io)                                | -       |

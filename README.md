@@ -128,6 +128,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [PenYazılım](https://pen.com.tr/)                          |                | -       |
 |     | [Pisano](https://pisano.co/)                               |                | -       |
 |     | [Privia Security](https://www.priviasecurity.com/)         |                | -       |
+|     | [ProceedLabs](https://proceedlabs.com)                     | 2020-03-16     | Süresiz |
 |     | [Protel](https://www.protel.com.tr/)                       |                | -       |
 |     | [Piple](https://piple.co)                                  |                | -       |
 |     | [robotic.mobi](https://robotic.mobi)                       |                | -       |

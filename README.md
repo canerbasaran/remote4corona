@@ -145,6 +145,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
+|     | [Türkiye Finans](https://turkiyeFinans.Com.tr)             | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |

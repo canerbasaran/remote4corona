@@ -93,6 +93,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [KolayIK](https://kolayik.com)                             |                | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 |                | -       |
 |     | [Kriko](https://kriko.io)                                  |                | -       |
+|     | [Kuka Apps](http://www.kukaapps.com)                       | 2020-03-16     | -       |
 |     | [La Nina](http://laninayazilim.com/)                       |                | -       |
 |     | [Litum](https://www.litum.com/)                            |                | 2 hafta |
 |     | [Logo Yazılım](https://www.logo.com.tr)                    |                | -       |

@@ -92,7 +92,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Inveon](https://www.inveon.com)                           | 2020-03-18     | -       |
 |     | [image4io](https://image4.io)                              |                | -       |
 |     | [Jotform](https://www.jotform.com/)                        |                | -       |
-|     | [Kamion](https://www.kamion.co/)                           |                | -       |
+|     | [Kamion](https://www.kamion.co/)                           | 2020-03-13     | -       |
 |     | [Kariyer.net](https://www.kariyer.net)                     |                | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              |                | -       |
 |     | [Kodiks Bilişim](http://kodiks.com/)                       | 2020-03-16     | -       |

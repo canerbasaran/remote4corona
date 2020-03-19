@@ -84,7 +84,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [InGame Group](https://www.ingamegroup.com/)               |                | -       |
 |     | [Inosens](http://inosens.com.tr/)                          |                | -       |
 |     | [Insider](https://useinsider.com)                          | 2020-03-16     | -       |
-|     | [Inveon](https://www.inveon.com)                           |                | -       |
+|     | [Inveon](https://www.inveon.com)                           | 2020-03-18     | -       |
 |     | [image4io](https://image4.io)                              |                | -       |
 |     | [Jotform](https://www.jotform.com/)                        |                | -       |
 |     | [Kamion](https://www.kamion.co/)                           |                | -       |

@@ -72,7 +72,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [GE Aviation](hhttps://www.geaviation.com/)                | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [Getir](https://getir.com/)                                | -       |
-|     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
+|     | [GittiGidiyor](https://gittigidiyor.com)                   | 1+ Ay   |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         | -       |

@@ -38,11 +38,13 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Biges](https://biges.com)                                 | -       |
 |     | [Bigoen](https://bigoen.com)                               | -       |
 |     | [Biletall](https://www.biletall.com/)                      | 1 Hafta |
+|     | [Bilge Adam](https://www.bilgeadam.com/)                   | -       |
 |     | [Bimser](https://bimser.com/)                              | 1 Hafta |
 |     | [Borda](https://www.bordatech.com/) 					             | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                | -       |
 |     | [BURGAN BANKASI](https://www.burgan.com.tr/)               | -       |
+|     | [Buhizmet](https://buhizmet.com)                           | -       |
 |     | [Casemice Digital](https://casemice.com)                   | -       |
 |     | [Cell Solutions]                                           | -       |
 |     | [Clevel](http://clevel.team)                               | -       |
@@ -69,14 +71,15 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |
 |     | [Formalistech](http://www.formalistech.com/)               | -       |
 |     | [Glocalzone](https://glocalzone.com/)                      | -       |
-|     | [GE Aviation](hhttps://www.geaviation.com/)                | -       |
+|     | [GE Aviation](https://www.geaviation.com/)                | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [Getir](https://getir.com/)                                | -       |
-|     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |
+|     | [GittiGidiyor](https://gittigidiyor.com)                   | 1+ Ay   |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     | -       |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           | -       |
+|     | [i2i Systems](http://i2i-systems.com/)                     | -       |
 |     | [InGame Group](https://www.ingamegroup.com/)               | -       |
 |     | [Inosens](http://inosens.com.tr/)                          | -       |
 |     | [Insider](https://useinsider.com)                          | -       |
@@ -107,6 +110,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Nesbilgi](https://www.nesbilgi.com.tr)                    | -       |
 |     | [Nesine](https://www.nesine.com)                           | -       |
 |     | [Netas](https://www.netas.com.tr)                          | -       |
+|     | [Netcad](https://www.netcad.com)                          | -       |
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  | -       |
 |     | [Netix](http://netix.com.tr)                               | -       |
 |     | [Nicesi](https://nicesi.com)                               | -       |
@@ -132,6 +136,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Scotty](https://www.scotty.app/)                          | -       |
 |     | [Sem](https://semtr.com)                                   | -       |
 |     | [Sfs](https://sfs.com.tr/)                                 | -       |
+|     | [Siemens](http://www.siemens.com.tr)                       | -       |
 |     | [Sixt](https://sixt.com.tr)                                | -       |
 |     | [Smartface](http://www.smartface.io)                       | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                | -       |
@@ -145,9 +150,12 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Tra Bilişim](http://trabilisim.com/)                      | -       |
 |     | [Trendyol](https://trendyol.com)                           | -       |
 |     | [Trio Mobil](https://triomobil.com)                        | -       |
+|     | [Türkiye Finans](https://turkiyeFinans.Com.tr)             | -       |
 |     | [Univerlist](https://univerlist.com/)                      | -       |
 |     | [UserGuiding](https://userguiding.com/)                    | 1 ay    |
+|     | [Veridyen](http://www.veridyen.com/)             	       | 2+ hafta |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             | -       |
+|     | [Veripark](https://www.veripark.com/)                      | 2+ hafta |
 |     | [Vircon](http://www.vircongroup.com/)             	       | -       |
 |     | [Vivense](https://www.vivense.com)                         | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              | 1 hafta |
@@ -155,6 +163,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Vakko](https://www.vakko.com/)                            | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 | -       |
+|     | [Wordapp](https://www.wordapp.com/)                        | -       |
 |     | [Zeo](https://zeo.org)                                     | 1+ ay   |
 |     | [Zeplin](https://zeplin.io)                                | -       |
 |     | [Zingat](https://www.zingat.com)                           | 1+ hafta |

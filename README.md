@@ -59,6 +59,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Denebunu](https://denebunu.com/)                          |                | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           |                | -       |
 |     | [DigitArc](https://digitarc.net)                           |                | -       |
+|     | [DOGO Tasarım](https://www.dogostore.com/)                 |                | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             |                | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   |                | 1+ Hafta|
 |     | [Emlakjet](https://www.emlakjet.com)                       |                | -       |

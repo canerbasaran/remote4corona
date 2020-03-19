@@ -49,6 +49,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Casemice Digital](https://casemice.com)                   |                | -       |
 |     | [Cell Solutions]                                           |                | -       |
 |     | [Clevel](http://clevel.team)                               |                | -       |
+|     | [Codevist](https://codevist.com)                           |                | 1+ Hafta|
 |     | [Corendon](https://www.corendonairlines.com)               |                | -       |
 |     | [CTech](http://ctech.com.tr/)                              |                | -       |
 |     | [ÇiçekSepeti](https://ciceksepeti.com)                     |                | 1+ Hafta|

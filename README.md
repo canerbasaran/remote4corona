@@ -69,7 +69,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [FIXER Yazılım Geliştirme Stüdyosu](https://fixer.com.tr)  | -       |
 |     | [Formalistech](http://www.formalistech.com/)               | -       |
 |     | [Glocalzone](https://glocalzone.com/)                      | -       |
-|     | [GE Aviation](hhttps://www.geaviation.com/)                | -       |
+|     | [GE Aviation](https://www.geaviation.com/)                | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        | -       |
 |     | [Getir](https://getir.com/)                                | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | -       |

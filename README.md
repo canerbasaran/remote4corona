@@ -18,6 +18,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [2025Arena](https://2025arena.com)                         |                | -       |
 |     | [32 Bit Bilgisayar](http://www.32bit.com.tr)               |                | -       |
 |     | [Adesso](https://www.adesso.com.tr/)                       |                | -       |
+|     | [Adisyo](https://www.adisyo.com/)                          | 2020-03-16     | -       |
 |     | [Adphorus](https://adphorus.com)                           |                | -       |
 |     | [Akinon](https://www.akinon.com)                           |                | -       |
 |     | [Akrep](https://www.akrep.com)                             |                | -       |
@@ -91,6 +92,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Kamion](https://www.kamion.co/)                           |                | -       |
 |     | [Kariyer.net](https://www.kariyer.net)                     |                | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              |                | -       |
+|     | [Kodiks Bilişim](http://kodiks.com/)                       | 2020-03-16     | -       |
 |     | [KolayIK](https://kolayik.com)                             |                | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 |                | -       |
 |     | [Kriko](https://kriko.io)                                  |                | -       |

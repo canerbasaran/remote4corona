@@ -38,7 +38,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Depauli Teknoloji](https://herrenausstatter.de)           | -       |
 |     | [DigitArc](https://digitarc.net)                           | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             | -       |
-|     | [Doxa Labs](https://doxalabs.co.uk)                        | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   | 1/+ Hafta       |
 |     | [Emlakjet](https://www.emlakjet.com)                       | -       |
 |     | [Endeksa](https://www.endeksa.com)                         | -       |
@@ -70,7 +69,6 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Loodos](https://loodos.com)                               | -       |
 |     | [Masomo](https://masomo.com)                               | -       |
 |     | [Metglobal](https://www.metglobal.com/)                    | -       |
-|     | [Ministry Of Branding](https://ministryofbranding.co)      | -       |
 |     | [Miops](https://miops.com)                                 | -       |
 |     | [Mobiroller](https://www.mobiroller.com/)                  | 3 hafta |
 |     | [Mobven](https://mobven.com)                               | -       |

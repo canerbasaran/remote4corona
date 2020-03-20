@@ -42,7 +42,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Bigoen](https://bigoen.com)                               |                | -       |
 |     | [Biletall](https://www.biletall.com/)                      |                | 1 Hafta |
 |     | [Bilge Adam](https://www.bilgeadam.com/)                   |                | -       |
-|     | [Bimser](https://bimser.com/)                              |                | 1 Hafta |
+|     | [Bimser](https://www.bimser.com/)                          |                | 2 Hafta |
 |     | [Borda](https://www.bordatech.com/)                        |                | -       |
 |     | [Boyner ARGE](https://www.boyner.com.tr)                   |                | 11 gün  |
 |     | [BUGECE](https://bugece.co)                                |                | -       |

@@ -59,7 +59,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) |                |         |
 |     | [Denebunu](https://denebunu.com/)                          |                | -       |
 |     | [Depauli Teknoloji](https://herrenausstatter.de)  
-|     | [Desecure Özel Güvenlik] (https://www.desecure.com.tr]       -       
+|     | [Desecure Özel Güvenlik](https://www.desecure.com.tr)      | 2020-03-15     | -       |
 |     | [DigitArc](https://digitarc.net)                           |                | -       |
 |     | [DOGO Tasarım](https://www.dogostore.com/)                 |                | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             |                | -       |

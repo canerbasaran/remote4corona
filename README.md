@@ -58,7 +58,8 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Çözümevi Danışmanlık](https://www.cozumevi.com)           |                | 1+ Hafta|
 |     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) |                |         |
 |     | [Denebunu](https://denebunu.com/)                          |                | -       |
-|     | [Depauli Teknoloji](https://herrenausstatter.de)           |                | -       |
+|     | [Depauli Teknoloji](https://herrenausstatter.de)  
+|     | [Desecure Özel Güvenlik] (https://www.desecure.com.tr]       -       
 |     | [DigitArc](https://digitarc.net)                           |                | -       |
 |     | [DOGO Tasarım](https://www.dogostore.com/)                 |                | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             |                | -       |

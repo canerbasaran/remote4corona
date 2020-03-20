@@ -165,7 +165,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [UserGuiding](https://userguiding.com/)                    |                | 1 ay    |
 |     | [Veridyen](http://www.veridyen.com/)                       |                | 2+ hafta |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             |                | -       |
-|     | [Veripark](https://www.veripark.com/)                      |                | 2+ hafta |
+|     | [VeriPark](https://www.veripark.com/)                      | 2020-03-18     | 2+ hafta |
 |     | [Vircon](http://www.vircongroup.com/)                      |                | -       |
 |     | [Vivense](https://www.vivense.com)                         |                | 1 hafta |
 |     | [Xenn.io](https://xenn.io/#/)                              |                | 1 hafta |

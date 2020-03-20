@@ -98,6 +98,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Kariyer.net](https://www.kariyer.net)                     |                | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              |                | -       |
 |     | [Kodiks Bilişim](http://kodiks.com/)                       | 2020-03-16     | -       |
+|     | [Knawat](https://knawat.com/)                              | 2020-03-19     | 1+ hafta|
 |     | [KolayIK](https://kolayik.com)                             |                | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 |                | -       |
 |     | [Kriko](https://kriko.io)                                  |                | -       |

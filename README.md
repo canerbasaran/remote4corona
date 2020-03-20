@@ -145,6 +145,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [robotic.mobi](https://robotic.mobi)                       |                | -       |
 |     | [sefamerve.com](https://www.sefamerve.com)                 |                | -       |
 |     | [sahibinden.com](https://sahibinden.com)                   |                | -       |
+|     | [SanalSantral](https://www.sanalsantral.com)               |                | -       |
 |     | [SambaPOS](https://sambapos.com)                           |                | 2 Hafta |
 |     | [Scotty](https://www.scotty.app/)                          |                | -       |
 |     | [Sem](https://semtr.com)                                   |                | -       |

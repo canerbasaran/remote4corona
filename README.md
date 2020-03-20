@@ -123,7 +123,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [NetDirekt](https://www.netdirekt.com.tr)                  |                | -       |
 |     | [Netix](http://netix.com.tr)                               |                | -       |
 |     | [Nicesi](https://nicesi.com)                               |                | -       |
-|     | [Nuevo](https://www.nuevo.com.tr)                          |                | -       |
+|     | [Nuevo](https://www.nuevo.com.tr)                          | 2020-03-17     | -       |
 |     | [Omega Bigdata](https://omegabigdata.com)                  |                | -       |
 |     | [Onedio](https://www.onedio.com)                           |                | -       |
 |     | [OPLOG](https://oplog.com.tr/)                             |                | -       |

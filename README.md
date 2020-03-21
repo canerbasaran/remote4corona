@@ -131,6 +131,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Omega Bigdata](https://omegabigdata.com)                  |                | -       |
 |     | [Onedio](https://www.onedio.com)                           |                | -       |
 |     | [OPLOG](https://oplog.com.tr/)                             |                | -       |
+|     | [Opthema Teknoloji](https://www.opthemateknoloji.com)      | 2020-03-18     | Süresiz |
 |     | [OSF Digital](https://osf.digital)                         |                | -       |
 |     | [Öykü Grup](http://www.oykugrup.com.tr)                    |                | -       |
 |     | [Pankod](https://www.pankod.com)                           |                | -       |

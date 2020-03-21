@@ -162,6 +162,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Tatilde Kirala](https://www.tatildekirala.com/)           |                | -       |
 |     | [Talentra](https://talentra.net/)                          |                | -       |
 |     | [Tatilsepeti](https://www.tatilsepeti.com)                 |                | 2 Hafta |
+|     | [TCMB](https://www.tcmb.gov.tr)                            |                | -       |
 |     | [TeamGram](https://www.teamgram.com)                       |                | -       |
 |     | [Tra Bilişim](http://trabilisim.com/)                      |                | -       |
 |     | [Trendyol](https://trendyol.com)                           |                | -       |
@@ -169,7 +170,8 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Türkiye Finans](https://turkiyeFinans.Com.tr)             |                | -       |
 |     | [Univerlist](https://univerlist.com/)                      |                | -       |
 |     | [UserGuiding](https://userguiding.com/)                    |                | 1 ay    |
-|     | [Vademecum Yayıncılık A.Ş](https://www.vademecumonline.com.tr/)                    |                | -    |
+|     | [Vademecum Yayıncılık A.Ş](https://www.vademecumonline.com.tr/)|            | -       |
+|     | [VBT](http://www.vbt.com.tr/)                              |                | -       |
 |     | [Veridyen](http://www.veridyen.com/)                       |                | 2+ hafta |
 |     | [Veri Yazılım (KERZZ)](https://www.kerzz.com/)             |                | -       |
 |     | [VeriPark](https://www.veripark.com/)                      | 2020-03-18     | 2+ hafta |

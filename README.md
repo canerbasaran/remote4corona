@@ -27,7 +27,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Albayrak Holding](https://www.albayrak.com.tr)            |                | -       |
 |     | [Alegra](https://alegra.io)                                |                | -       |
 |     | [Alta Data](https://www.altadata.io/)                      |                | -       |
-|.    | [Airsqreen](https://www.airsqreen.com)                     |                | -       |
+|     | [Airsqreen](https://www.airsqreen.com)                     |                | -       |
 |     | [Aplus Enerji](https://www.aplusenerji.com.tr)             |                | -       |
 |     | [Appcent](https://www.appcent.mobi/)                       |                | -       |
 |     | [Applogist](https://www.applogist.com)                     |                | -       |
@@ -52,6 +52,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Casemice Digital](https://casemice.com)                   |                | -       |
 |     | [Cell Solutions]                                           |                | -       |
 |     | [Clevel](http://clevel.team)                               |                | -       |
+|     | [CodeLama Yazılım](http://codelama.com.tr)                 | 2020-03-03     | -       |
 |     | [Codevist](https://codevist.com)                           |                | 1+ Hafta|
 |     | [Corendon](https://www.corendonairlines.com)               |                | -       |
 |     | [CTech](http://ctech.com.tr/)                              |                | -       |

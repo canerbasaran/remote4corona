@@ -155,7 +155,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Scotty](https://www.scotty.app/)                          |                | -       |
 |     | [Sem](https://semtr.com)                                   |                | -       |
 |     | [Sfs](https://sfs.com.tr/)                                 |                | -       |
-|     | [Siemens](http://www.siemens.com.tr)                       |                | -       |
+|     | [Siemens](http://www.siemens.com.tr)                       | 2020-03-16     | -       |
 |     | [Sixt](https://sixt.com.tr)                                |                | -       |
 |     | [Smartface](http://www.smartface.io)                       |                | -       |
 |     | [Smartmessage](http://www.smartmessage.com)                |                | -       |

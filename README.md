@@ -70,6 +70,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Emakina.TR](https://www.emakina.com.tr)                   |                | 3+ Hafta|
 |     | [Emlakjet](https://www.emlakjet.com)                       |                | -       |
 |     | [Endeksa](https://www.endeksa.com)                         |                | -       |
+|     | [Ente Tanıtım](http://entetanitim.com)                     |                | -       |
 |     | [EnUygun](https://enuygun.com)                             |                | -       |
 |     | [Epigra](https://epigra.com)                               |                | -       |
 |     | [Erp12] (http://erp12.com.tr)                              |                | -       |

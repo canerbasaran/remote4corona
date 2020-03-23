@@ -90,6 +90,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         |                | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           |                | -       |
 |     | [i2i Systems](http://i2i-systems.com/)                     |                | -       |
+|     | [IBTech](http://www.ibtech.com.tr/)                        | 2020-03-11     | Süresiz |
 |     | [InGame Group](https://www.ingamegroup.com/)               |                | -       |
 |     | [Inosens](http://inosens.com.tr/)                          |                | -       |
 |     | [Insider](https://useinsider.com)                          | 2020-03-16     | -       |

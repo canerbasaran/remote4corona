@@ -87,6 +87,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Getir](https://getir.com/)                                | 2020-03-12     | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   |                | 1+ Ay   |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     |                | -       |
+|     | [Güzel Hosting](https://www.guzel.net.tr/)                 |                | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     |                | -       |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         |                | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           |                | -       |

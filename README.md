@@ -86,7 +86,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [GE Aviation](https://www.geaviation.com/)                 |                | -       |
 |     | [Geekyapar](https://geekyapar.com/)                        |                | -       |
 |     | [Getir](https://getir.com/)                                | 2020-03-12     | -       |
-|     | [GittiGidiyor](https://gittigidiyor.com)                   |                | 1+ Ay   |
+|     | [GittiGidiyor](https://gittigidiyor.com)                   | 2020-03-13     | Süresiz |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     |                | -       |
 |     | [Güzel Hosting](https://www.guzel.net.tr/)                 |                | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     |                | -       |

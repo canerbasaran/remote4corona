@@ -95,6 +95,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [i2i Systems](http://i2i-systems.com/)                     |                | -       |
 |     | [IBTech](http://www.ibtech.com.tr/)                        | 2020-03-11     | Süresiz |
 |     | [InGame Group](https://www.ingamegroup.com/)               |                | -       |
+|     | [Inosas](https://inosas.com.tr/)                           |                | -       |
 |     | [Inosens](http://inosens.com.tr/)                          |                | -       |
 |     | [Insider](https://useinsider.com)                          | 2020-03-16     | -       |
 |     | [Inveon](https://www.inveon.com)                           | 2020-03-18     | -       |

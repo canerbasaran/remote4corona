@@ -186,7 +186,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [VNGRS](https://vngrs.com)                                 |                | -       |
 |     | [Vakko](https://www.vakko.com/)                            |                | -       |
 |     | [Verisoft](https://www.verisoft.com)                       |                | 2 hafta |
-|     | [Vodafone](https://www.vodafone.com/)                      |                | 2 hafta |
+|     | [Vodafone](https://www.vodafone.com/)                      | 2020-03-16     | -       |
 |     | [Volosoft](https://www.volosoft.com/)                      |                | -       |
 |     | [WittyCommerce](https://wittycommerce.com)                 |                | -       |
 |     | [Wordapp](https://www.wordapp.com/)                        |                | -       |

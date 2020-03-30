@@ -53,7 +53,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Casemice Digital](https://casemice.com)                   |                | -       |
 |     | [Cell Solutions]                                           |                | -       |
 |     | [Clevel](http://clevel.team)   
-|     | [Cloudberry Bişim](http://cloudberry.com.tr)               | -              | -       |
+|     | [Cloudberry Bilişim](http://cloudberry.com.tr)               | -              | -       |
 |     | [CodeLama Yazılım](http://codelama.com.tr)                 | 2020-03-03     | -       |
 |     | [Codevist](https://codevist.com)                           |                | 1+ Hafta|
 |     | [Corendon](https://www.corendonairlines.com)               |                | -       |

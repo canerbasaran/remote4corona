@@ -108,6 +108,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Knawat](https://knawat.com/)                              | 2020-03-19     | 1+ hafta|
 |     | [KolayIK](https://kolayik.com)                             |                | -       |
 |     | [Koru Sigorta](https://korusigorta.com.tr)                 |                | -       |
+|     | [Krema İletişim](https://crema.com.tr)                     | 2020-03-16     | -       |
 |     | [Kriko](https://kriko.io)                                  |                | -       |
 |     | [Kuka Apps](http://www.kukaapps.com)                       | 2020-03-16     | -       |
 |     | [La Nina](http://laninayazilim.com/)                       |                | -       |

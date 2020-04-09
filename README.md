@@ -67,6 +67,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [DigitArc](https://digitarc.net)                           |                | -       |
 |     | [DOGO Tasarım](https://www.dogostore.com/)                 |                | -       |
 |     | [Donanım Haber](https://www.donanimhaber.com/)             |                | -       |
+|     | [Dopigo](https://www.dopigo.com/)                          |                | -       |
 |     | [Doxa Labs](https://doxalabs.co.uk)                        | 2020-03-16     | -       |
 |     | [Emakina.TR](https://www.emakina.com.tr)                   |                | 3+ Hafta|
 |     | [Emlakjet](https://www.emlakjet.com)                       |                | -       |

@@ -147,6 +147,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Pankod](https://www.pankod.com)                           |                | -       |
 |     | [Parabol](https://paraboly.com)                            |                | -       |
 |     | [Paraşüt](https://www.parasut.com)                         |                | -       |
+|     | [PATH Digital Experiences](https://www.path.com.tr)        |                | -       |
 |     | [Peakment](https://peakment.com)                           |                | 1 Ay    |
 |     | [PenYazılım](https://pen.com.tr/)                          |                | -       |
 |     | [Pisano](https://pisano.co/)                               |                | -       |

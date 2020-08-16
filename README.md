@@ -33,7 +33,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Appcent](https://www.appcent.mobi/)                       |                | -       |
 |     | [Applogist](https://www.applogist.com)                     |                | -       |
 |     | [Armut](https://www.armut.com)                             |                | 4 hafta |
-|     | [Arkel](https://www.arkel.com.tr)                          |                |         |
+|     | [Arkel](https://www.arkel.com.tr)                          |                | -       |
 |     | [Artiwise](https://www.artiwise.com)                       |                | -       |
 |     | [Atlas Yazılım](https://www.atlasyazilim.com.tr)           |                | 3 hafta |
 |     | [Atolye15](https://www.atolye15.com)                       |                | -       |
@@ -52,17 +52,17 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Buhizmet](https://buhizmet.com)                           |                | -       |
 |     | [Casemice Digital](https://casemice.com)                   |                | -       |
 |     | [Cell Solutions]                                           |                | -       |
-|     | [Clevel](http://clevel.team)   
-|     | [Cloudberry Bilişim](http://cloudberry.com.tr)               | -              | -       |
+|     | [Clevel](http://clevel.team)                               |                | -       |
+|     | [Cloudberry Bilişim](http://cloudberry.com.tr)             |                | -       |
 |     | [CodeLama Yazılım](http://codelama.com.tr)                 | 2020-03-03     | -       |
 |     | [Codevist](https://codevist.com)                           |                | 1+ Hafta|
 |     | [Corendon](https://www.corendonairlines.com)               |                | -       |
 |     | [CTech](http://ctech.com.tr/)                              |                | -       |
 |     | [ÇiçekSepeti](https://ciceksepeti.com)                     |                | 1+ Hafta|
 |     | [Çözümevi Danışmanlık](https://www.cozumevi.com)           |                | 1+ Hafta|
-|     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) |                |         |
+|     | [Demirören Teknoloji](https://www.demirorenteknoloji.com/) |                | -       |
 |     | [Denebunu](https://denebunu.com/)                          |                | -       |
-|     | [Depauli Teknoloji](https://herrenausstatter.de)  
+|     | [Depauli Teknoloji](https://herrenausstatter.de)           |                | -       |
 |     | [Desecure Özel Güvenlik](https://desecure.com.tr/)         | 2020-03-15     | -       |
 |     | [DigitArc](https://digitarc.net)                           |                | -       |
 |     | [DOGO Tasarım](https://www.dogostore.com/)                 |                | -       |
@@ -89,7 +89,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Geekyapar](https://geekyapar.com/)                        |                | -       |
 |     | [Getir](https://getir.com/)                                | 2020-03-12     | -       |
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | 2020-03-13     | 1 Ekim  |
-|     | [Günkom Bilişim](http://gunkom.com.tr)                     |                | -       |
+|     | [Günkom Bilişim](http://gunkom.com.tr)                     | 2020-03-17     |16 Ağustos|
 |     | [Güzel Hosting](https://www.guzel.net.tr/)                 |                | -       |
 |     | [Hepsiburada](https://hepsiburada.com)                     |                | -       |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         |                | -       |

@@ -101,7 +101,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Insider](https://useinsider.com)                          | 2020-03-16     | -       |
 |     | [Inveon](https://www.inveon.com)                           | 2020-03-18     | -       |
 |     | [image4io](https://image4.io)                              |                | -       |
-|     | [JotForm](https://www.jotform.com/)                        |                |1 Ağustos|
+|     | [JotForm](https://www.jotform.com/)                        |                | 1 Ocak  |
 |     | [Kamion](https://www.kamion.co/)                           | 2020-03-13     | -       |
 |     | [Kariyer.net](https://www.kariyer.net)                     |                | 2 hafta |
 |     | [KKB](https://www.kkb.com.tr)                              |                | -       |

@@ -136,6 +136,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Netix](http://netix.com.tr)                               |                | -       |
 |     | [Nicesi](https://nicesi.com)                               |                | -       |
 |     | [Nuevo](https://www.nuevo.com.tr)                          | 2020-03-17     | -       |
+|     | [Halı Special](https://www.halispecial.com)                | 2020-03-23     | -       |
 |     | [OBSS](https://obss.com.tr)                                |                | -       |
 |     | [Omega Bigdata](https://omegabigdata.com)                  |                | -       |
 |     | [Onedio](https://www.onedio.com)                           |                | -       |

@@ -75,7 +75,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Ente Tanıtım](http://entetanitim.com)                     |                | -       |
 |     | [EnUygun](https://enuygun.com)                             |                | -       |
 |     | [Epigra](https://epigra.com)                               |                | -       |
-|     | [Erp12] (http://erp12.com.tr)                              |                | -       |
+|     | [Erp12](http://erp12.com.tr)                               |                | -       |
 |     | [Etiya](https://etiya.com)                                 |                | -       |
 |     | [Exedra](https://exedra.com.tr)                            |                | -       |
 |     | [Farmazon](https://farmazon.com.tr)                        |                | -       |

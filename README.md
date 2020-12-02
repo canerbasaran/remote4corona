@@ -9,9 +9,6 @@
 ## Hata belirtme
 Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, Issue aç.
 
-## Diğer projelere destek ol
-* [Solunum Destek Cihazı Üretimi Projesi](https://www.solunumdestek.org/) 
-* [COVID-19 İLE MÜCADELEDE KOLEKTİF ÜRETİM HAREKETİ](https://3boyutludestek.com/)
 
 
 |     | Şirket Adı                                                 | Başlangıç      | Süre    |

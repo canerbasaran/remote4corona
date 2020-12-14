@@ -72,6 +72,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Ente Tanıtım](http://entetanitim.com)                     |                | -       |
 |     | [EnUygun](https://enuygun.com)                             |                | -       |
 |     | [Epigra](https://epigra.com)                               |                | -       |
+|     | [Eren Holding](https://www.erenholding.com.tr)             |                | -       |
 |     | [Erp12](http://erp12.com.tr)                               |                | -       |
 |     | [Etiya](https://etiya.com)                                 |                | -       |
 |     | [Exedra](https://exedra.com.tr)                            |                | -       |

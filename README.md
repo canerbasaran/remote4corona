@@ -179,6 +179,7 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [Trio Mobil](https://triomobil.com)                        |                | -       |
 |     | [Türkiye Finans](https://turkiyeFinans.Com.tr)             |                | -       |
 |     | [Univerlist](https://univerlist.com/)                      |                | -       |
+|     | [Windows 10 Pro Satın Al](https://uygunbana.com/urun/windows-10-pro-dijital-lisans-anahtari/)                     |                | -       |
 |     | [UserGuiding](https://userguiding.com/)                    |                | 1 ay    |
 |     | [Vademecum Yayıncılık A.Ş](https://www.vademecumonline.com.tr/)|            | -       |
 |     | [VBT](http://www.vbt.com.tr/)                              |                | -       |

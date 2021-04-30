@@ -89,7 +89,8 @@ Listedeki şirketlerde çalışıyor ve uzaktan çalışmaya izin verilmiyorsa, 
 |     | [GittiGidiyor](https://gittigidiyor.com)                   | 2020-03-13     | 1 Ekim  |
 |     | [Günkom Bilişim](http://gunkom.com.tr)                     | 2020-03-17     |16 Ağustos|
 |     | [Güzel Hosting](https://www.guzel.net.tr/)                 |                | -       |
-|     | [Hepsiburada](https://hepsiburada.com)                     |                | -       |
+|     | [Hepsiburada](https://hepsiburada.com)                     |                |         |
+|     | [Heraklet](https://heraklet.com)                           | 2020-03-29     | -       |
 |     | [HexagonStudio](https://www.hexagonstudio.com.tr/)         |                | -       |
 |     | [Hürriyet Emlak](https://www.hurriyetemlak.com/)           |                | -       |
 |     | [i2i Systems](http://i2i-systems.com/)                     |                | -       |
